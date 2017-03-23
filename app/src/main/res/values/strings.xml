@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="notification">notifications</string>
+    <string name="profile">profile</string>
+</resources>
